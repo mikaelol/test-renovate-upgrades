@@ -1,9 +1,0 @@
-{
-  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
-  "description": "",
-  "extends": [
-    "config:base",
-    "npm:unpublishSafe",
-    "regexManagers:dockerfileVersions"
-  ]
-}
