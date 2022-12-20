@@ -5,7 +5,7 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@rollup/plugin-replace": "4.0.0",
+    "@rollup/plugin-replace": "5.0.2",
     "@rollup/plugin-typescript": "8.5.0",
     "@size-limit/preset-small-lib": "8.1.0",
     "@types/jest": "29.2.4",
